@@ -7,3 +7,5 @@ It should work out of the box using pysynth, but if you want to get the full exp
 To use:
 1. Open MusicGen.maxpat (if using Max)
 2. Open generate.py, and run! 
+
+To listen to output generated using pysynth, check the 'wav' folder. To hear samples generated using both pysnth and our custom max/msp synths, look in the 'samples' folder. Which sounds better to you? ;)
