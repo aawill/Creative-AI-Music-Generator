@@ -1,4 +1,4 @@
-This project uses basic trained models to generate song lyrics and music based on training data. This was created as a final project during EECS 183 at the University of Michigan, with the help of teammates Jessica Glynn, Brad Gurwin, and Kayla Wiggins. 
+Uses basic trained models to generate song lyrics and music based on training data. This was created as a final project during Fall 2017 EECS 183 at the University of Michigan by Aaron Willette, Kayla Wiggins, Brad Gurwin, and Jessica Glynn.
 
 The lyric and melody components were required, but the harmony and bassline generation was an original idea. Similarly, we decided to incorporate Max/MSP to design synth voices that sounded more interesting than pysynth. 
 
